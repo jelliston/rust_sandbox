@@ -1,6 +1,7 @@
 // Variables hold primitive data or reference to data
 // Variables are immutable by default
 // Rust is a block-scoped language (variables pertain to the scope in which they were defined)
+// Convention for variables in Rust is to use underscores _  you don't use camelCase
 
 pub fn run() {
     let name = "Ketchup";
